@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Support Site</title>
+    <link>https://letsfindout.dev/</link>
+    <description>Recent content on Example Support Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jul 2020 17:45:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://letsfindout.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test4</title>
+      <link>https://letsfindout.dev/article/test4/</link>
+      <pubDate>Mon, 20 Jul 2020 17:45:59 +0200</pubDate>
+      
+      <guid>https://letsfindout.dev/article/test4/</guid>
+      <description>Test 4 </description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://letsfindout.dev/article/test3/</link>
+      <pubDate>Mon, 20 Jul 2020 17:06:30 +0200</pubDate>
+      
+      <guid>https://letsfindout.dev/article/test3/</guid>
+      <description>And here we go Yet another piece of content.
+Directly from github.
+Marco and Thomas are testing. Weitere bearabeitung</description>
+    </item>
+    
+    <item>
+      <title>Article Numero 5</title>
+      <link>https://letsfindout.dev/article/test5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://letsfindout.dev/article/test5/</guid>
+      <description>Title: Bruno &amp;amp; Marco No timestamp, but a proper title&amp;hellip;
+ test test2  this is code </description>
+    </item>
+    
+  </channel>
+</rss>
